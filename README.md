@@ -1,2 +1,2 @@
-# companion-module-tslproducts-umdlistener
+# companion-module-techministry-umdlistener
 See HELP.md and LICENSE
